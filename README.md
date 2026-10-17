@@ -33,13 +33,16 @@
 **AI Engineer** @ Hire-Central *(03/2024 - Present)*
 - **Hire Central - AI Product**: CV extraction with LLMs, candidate scoring, semantic search with vector embeddings, AI chatbot, recruitment dashboards
 
-**Data Engineer / Fullstack Engineer** @ EST-Rouge *(03/2021 - Present)*
+**Data Engineer** @ EST-Rouge *(06/2023 - Present)*
 - **ISC Design Platform**: Data lakehouse on AWS S3, Airflow pipelines, API services, AI-based summarization for operational insights
 
-**Data Engineer** @ TMA Solution *(Offshore)*
+**Data Engineer** @ TMA Solution *(12/2021 - 06/2023 · Offshore)*
 - Working as offshore team, collaborating with DE team at US
 - **TDP - Data Platform**: Big data platform with Spark, Kafka streaming, Delta Lake, Debezium CDC
 - **Healthy Analytic Platform**: ETL on Databricks (Scala), Terraform IaC, CI/CD pipelines, SonarQube integration
+
+**Full Stack Engineer** *(06/2021 - 12/2021)*
+- Web development with Angular and Spring Framework
 
 ---
 
